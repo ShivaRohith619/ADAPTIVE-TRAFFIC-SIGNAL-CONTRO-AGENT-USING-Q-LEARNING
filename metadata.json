@@ -1,0 +1,5 @@
+{
+  "name": "AI Adaptive Traffic Control",
+  "description": "A high-fidelity traffic simulation using Reinforcement Learning (Q-Learning) to optimize signal timings and reduce congestion at a 4-way intersection.",
+  "requestFramePermissions": []
+}
